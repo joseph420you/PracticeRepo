@@ -6,6 +6,6 @@ package example;
 public class HelloWorld {
 
   public static void main(String[] argv) {
-      System.out.println("fgdg");
+      System.out.println("fdd");
   }
 }
