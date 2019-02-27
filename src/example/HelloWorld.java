@@ -5,7 +5,11 @@ package example;
 
 public class HelloWorld {
 
-  public static void main(String[] argv) {
-      System.out.println("fdd");
-  }
+    public static void main(String[] argv) {
+        System.out.println("fdd");
+    }
+
+    public static void test() {
+
+    }
 }
